@@ -1,0 +1,1 @@
+Texto esperado|texto traduzido| porcento acerto|resultado
